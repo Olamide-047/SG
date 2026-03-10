@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Imperial Senator",
+    "description": "Traditional senator wear with a modern royal twist.",
+    "image": "/images/classic-senator-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Pearl senator",
+    "description": "Sophisticated traditional attire.",
+    "image": "/images/classic-senator-2.jpg"
+  }
+]

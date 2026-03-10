@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Royal Crown Tuxedo",
+    "description": "A masterpiece of tailoring with woven crown motifs.",
+    "image": "/images/royal-crown-suit-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Majesty Peak Lapel",
+    "description": "Peak lapel suit designed for grand entrances.",
+    "image": "/images/royal-crown-suit-2.jpg"
+  }
+]

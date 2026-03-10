@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Victory Silk Robe",
+    "description": "Hand-dyed silk robe representing triumph and ease.",
+    "image": "/images/victory-silk-set-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Laurel Silk Shirt",
+    "description": "Breathable silk shirt with victory laurel embroidery.",
+    "image": "/images/victory-silk-set-2.jpg"
+  }
+]

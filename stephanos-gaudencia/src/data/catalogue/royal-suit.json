@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Midnight Velvet Suit",
+    "description": "Exquisite hand-stitched velvet suit for royal occasions.",
+    "image": "/images/royal-suit-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Gold-Trimmed Tuxedo",
+    "description": "Classic tuxedo featuring subtle gold embroidery.",
+    "image": "/images/royal-suit-2.jpg"
+  }
+]

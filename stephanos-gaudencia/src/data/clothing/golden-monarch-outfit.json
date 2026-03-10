@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Monarch Gold Blazer",
+    "description": "Statement blazer with metallic gold threading.",
+    "image": "/images/golden-monarch-outfit-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Sovereign Gold Trousers",
+    "description": "Tailored trousers that command respect.",
+    "image": "/images/golden-monarch-outfit-2.jpg"
+  }
+]

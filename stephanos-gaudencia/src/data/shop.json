@@ -1,0 +1,42 @@
+[
+  {
+    "id": "shop-1",
+    "name": "Ethereal Silk Tunic",
+    "price": 250,
+    "description": "A lightweight silk tunic with intricate gold needlework.",
+    "images": ["/images/shop-1.jpg"],
+    "colors": ["Ivory", "Gold", "Onyx"],
+    "sizes": ["S", "M", "L", "XL"],
+    "category": "Tops"
+  },
+  {
+    "id": "shop-2",
+    "name": "Monarch Velvet Blazer",
+    "price": 450,
+    "description": "Deep onyx velvet blazer with royal crest embroidery.",
+    "images": ["/images/shop-2.jpg"],
+    "colors": ["Onyx", "Midnight Blue"],
+    "sizes": ["M", "L", "XL"],
+    "category": "Outerwear"
+  },
+  {
+    "id": "shop-3",
+    "name": "Victory Wide Trousers",
+    "price": 180,
+    "description": "Flowing wide-leg trousers in premium linen blend.",
+    "images": ["/images/shop-3.jpg"],
+    "colors": ["Gold", "Ivory"],
+    "sizes": ["S", "M", "L"],
+    "category": "Trousers"
+  },
+  {
+    "id": "shop-4",
+    "name": "Regal Senator Set",
+    "price": 380,
+    "description": "Traditional senator set with modern tailoring and pearl buttons.",
+    "images": ["/images/shop-4.jpg"],
+    "colors": ["Navy", "Emerald", "Onyx"],
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "Sets"
+  }
+]

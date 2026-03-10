@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Ancestral Agbada",
+    "description": "Heavily embroidered agbada for the modern king.",
+    "image": "/images/traditional-regal-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Royal Kaftan",
+    "description": "Elegance in simplicity.",
+    "image": "/images/traditional-regal-2.jpg"
+  }
+]

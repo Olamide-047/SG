@@ -1,0 +1,30 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap');
+
+
+@theme {
+  --color-onyx: #0F0F0F;
+  --color-ivory: #FAF9F6;
+  --color-gold: #D4AF37;
+  --color-gold-light: #F1D279;
+  
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "Montserrat", sans-serif;
+}
+
+
+@layer base {
+  body {
+    @apply bg-onyx text-ivory font-sans antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@layer utilities {
+  .text-glow-gold {
+    text-shadow: 0 0 15px rgba(212, 175, 55, 0.3);
+  }
+}

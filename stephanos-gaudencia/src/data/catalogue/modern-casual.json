@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Urban Gold Tee",
+    "description": "Premium cotton tee with signature gold branding.",
+    "image": "/images/modern-casual-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Regal Joggers",
+    "description": "Comfort meets luxury in these tapered joggers.",
+    "image": "/images/modern-casual-2.jpg"
+  }
+]
